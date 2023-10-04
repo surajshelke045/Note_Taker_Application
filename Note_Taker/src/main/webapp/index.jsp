@@ -17,7 +17,7 @@
     <br>
     <div class="container">
     
-    <div class="card py-3">
+    <div class="card shadow bg-white py-5">
     <img class="img-fluid mx-auto" style="width: 380px;" src="img/notepad.png" />
     <h1 class="text-primary text-uppercase text-center mt-3">Start takaing your notes</h1>
     
